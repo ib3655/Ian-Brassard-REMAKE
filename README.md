@@ -2,7 +2,7 @@
 CMSC 336 project 1 - REMAKE
 
 Ian Brassard <ib3655@bard.edu>  
-Feb 23 2022  
+Feb 28 2022  
 CMSC 336  
 Remake project  
 I worked alone on this assignment  
